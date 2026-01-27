@@ -40,7 +40,7 @@
 
 ---
 
-# ⚡ Tech Stack (Clean Logos)
+# ⚡ Tech Stack
 
 ### **Languages**
 <p>
