@@ -21,11 +21,9 @@
 
 ## Who I Am
 
-- B.Tech (ES&E), IIT Bombay — 2nd Year  
-- Developer at **DevCom**, IIT Bombay  
+- B.Tech (ES&E), IIT Bombay — 3rd Year  
 - AI/ML • Full-Stack • System Design • Infra  
-- 5+ years of product engineering  
-- “Build fast. Break limits. Ship impossible tech.”  
+- 6+ years of product engineering  
 
 ---
 
