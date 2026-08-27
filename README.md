@@ -19,7 +19,7 @@
 
 ---
 
-## ⚡ Who I Am
+## Who I Am
 
 - B.Tech (ES&E), IIT Bombay — 2nd Year  
 - Developer at **DevCom**, IIT Bombay  
@@ -40,7 +40,7 @@
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 ### **Languages**
 <p>
@@ -73,11 +73,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=figma,blender,unity,arduino,raspberrypi,androidstudio,postman" />
 </p>
-
----
-
-# ⚡ Motto
-> **“Build fast. Break limits. Ship the impossible.”**
 
 
 
